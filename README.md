@@ -1,5 +1,5 @@
 # Sentiment Analysis of Formula 1 Tweets (2021-2022)
-This project evaluated how different pre-processing stategies affect the sentiment of a tweet in the Formula 1 Twitter space using models like [RoBERTa](https://huggingface.co/docs/transformers/en/model_doc/roberta) &
+This project evaluates how different pre-processing stategies affect the sentiment of a tweet in the Formula 1 Twitter space using models like [RoBERTa](https://huggingface.co/docs/transformers/en/model_doc/roberta) &
 [VaDER](https://pypi.org/project/vaderSentiment/)
 
 The project two research questions:
